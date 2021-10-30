@@ -14,7 +14,7 @@ module.exports = {
             .setThumbnail(bot.user.displayAvatarURL())
             .setFooter(message.guild.name)
             .setTimestamp()
-            .addField(`Версия:`, `1.0.4.1`, true)
+            .addField(`Версия:`, `1.0.5`, true)
             .addField(`Последнее обновление:`, `22.10.2021`, true)
             .addField(`Сайт:`, `https://aiharistudio.xyz    `, true)
             .setDescription(`Бота написал: **Aihari#0009**`)
