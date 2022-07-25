@@ -23,7 +23,7 @@
     "mathjs": "^9.4.4",
     "mc-ping-updated": "^0.1.1",
     "minecraft-server-util": "^3.6.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "mongoose": "^6.0.6",
     "nekos.life": "^2.0.7",
     "node-osu": "^2.2.1",
